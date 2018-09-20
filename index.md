@@ -17,7 +17,7 @@ big field, and really challenges my traditional worldview by opening my eyes to 
 opportunity to learn more about the music I like.
 
 # Experience
-I'm currently particiating in the second half of my school's Freshman Research Initative program involving autonomous robotics. The course is overseen by Dr.
+I'm currently particiating in the second half of my school's Freshman Research Initiative program involving autonomous robotics. The course is overseen by Dr.
 Justin Hart and this semester, we're participating in the Toyota Research Institute Challenge. The challenge is to use Toyota's Human Support Robots to grab
 LEGO blocks and trash off a bin and to place them in their proper spots. To do this, my teammates and I will use Robot Operating System (ROS) and implemenet
 various algorithms/strategies to successfully autonomously complete the challenge.
