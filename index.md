@@ -9,7 +9,7 @@ I also enjoy playing sports, working out, and playing cello.
 I'm currently looking for Summer 2020 internships and Fall 2020 Co-op positions!
 
 # Resume
-Click [here](resume.pdf) to view my resume!
+Click [here](resume.pdf) to view my resume! My email can be found on it.
 
 # Coursework
 Some classes I'm currently taking include Modern Web Applications, Computer Networks, and Network Security. Each class I decide to take has to go
