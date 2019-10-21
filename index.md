@@ -25,6 +25,6 @@ LEGO blocks and trash off a bin and to place them in their proper spots. To do t
 various algorithms/strategies to successfully autonomously complete the challenge.
 
 In the summer of 2019, I worked as a Software Engineering Intern at Toyota Connected. There, I primarily did full-stack work using frameworks and languages
-such as Elixir, Phoenix, Ember, React JS, Material-UI, and GraphQL to create and update two internal applications. 
+such as Elixir, Phoenix, Ember, React JS, Material-UI, and GraphQL to create and update two internal applications. Check out my resume for more information!
 
 
